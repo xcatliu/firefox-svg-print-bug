@@ -1,0 +1,2 @@
+# FireFox svg print bug
+
