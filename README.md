@@ -21,3 +21,11 @@ A simple svg with `<path>` and `<text>` like this:
   </g>
 </svg>
 ```
+
+The webpage looks like this:
+
+<img width="572" alt="image" src="https://github.com/xcatliu/firefox-svg-print-bug/assets/5453359/ad8b16a3-3772-459d-acb5-f5b754f1db1f">
+
+However, during printing, the area that was supposed to have a gray background turned into an incorrect black background. In contrast, the yellow background appears as normal gray in print view:
+
+<img width="1816" alt="image" src="https://github.com/xcatliu/firefox-svg-print-bug/assets/5453359/9494b8b7-8459-47c2-93eb-2f6f16b2e64a">
