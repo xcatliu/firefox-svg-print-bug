@@ -8,7 +8,7 @@ A simple svg with `<path>` and `<text>` like this:
 <svg
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
-  style="position: absolute; width: 400px; height: 500px;"
+  style="width: 400px; height: 500px;"
 >
   <g>
     <path fill="#ffff00" stroke="none" d=" M 100 100 L 200 100 L 200 200 L 100 200 L 100 100"></path>
