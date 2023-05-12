@@ -13,7 +13,7 @@ A simple svg with `<path>` and `<text>` like this:
   </g>
 
   <g>
-    <path fill="#ff0000" stroke="none" d=" M 300 100 L 400 100 L 400 200 L 300 200 L 300 100"></path>
+    <path fill="#ff0000" stroke="none" d=" M 100 300 L 200 300 L 200 400 L 100 400 L 100 300"></path>
     <text fill="#000000" stroke="none" font-size="16pt" x="90" y="350">Red background</text>
   </g>
 </svg>
