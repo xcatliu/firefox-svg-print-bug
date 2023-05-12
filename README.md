@@ -2,6 +2,8 @@
 
 https://xcatliu.github.io/firefox-svg-print-bug/
 
+Report bug in [bugzilla.mozilla.org](https://bugzilla.mozilla.org): https://webcompat.com/issues/122162
+
 A simple svg with `<path>` and `<text>` like this:
 
 ```html
